@@ -11,6 +11,6 @@ public class AddTwoNo{
 
         int sum = num1+num2;//sum variable ka naam hai jismai num1 and num 2 ka add hoga
 
-        System.out.println("The sum is: "+sum);//ouput dega ki The sum is: sum variable(add of int1 and int 2)ka addition 
+        System.out.println("The sum is: "+sum+"");//ouput dega ki The sum is: sum variable(add of int1 and int 2)ka addition 
     }
 }
