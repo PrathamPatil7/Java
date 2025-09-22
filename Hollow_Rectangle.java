@@ -20,6 +20,6 @@ public class Hollow_Rectangle{
     }
 
     public static void main(String[] args) {
-        hollowReactangle(5);
+        Hollow_RectangleollowReactangle(5);
     }
 }
