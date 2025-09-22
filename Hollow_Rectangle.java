@@ -1,5 +1,5 @@
 public class Hollow_Rectangle{
-    public static void hollowReactangle(int n){
+    public static void Hollow_RectangleollowReactangle(int n){
         for(int i=1; i<=n; i++){
             //space
             for(int j=1; j<=(n-i); j++){
